@@ -1,0 +1,40 @@
+[
+  {
+    "_id": { "$oid": "6467a0ee36257fce55bac877" },
+    "name": "Ritish Katarki",
+    "usn_no": "4NI23CS101",
+    "room_no": "122",
+    "batch": 2023,
+    "dept": "SEECS",
+    "course": "CS",
+    "email": "ritishk@gmail.com",
+    "father_name": "ram katarki",
+    "contact": "8660137128",
+    "address": "Attar Block 1",
+    "dob": { "$date": "2004-06-08T00:00:00.000Z" },
+    "aadhar_no": "123456789123",
+    "user": { "$oid": "6467a0ee36257fce55bac875" },
+    "hostel": { "$oid": "645aae56db7005c0dc64fd92" },
+    "date": { "$date": "2024-05-19T16:16:46.538Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6467a0ee36257fce55bac875" },
+    "name": "navneeth shenoy",
+    "usn_no": "4NI23CS102",
+    "room_no": "117",
+    "batch": 2023,
+    "dept": "SEECS",
+    "course": "CS",
+    "email": "navneeth@gmail.com",
+    "father_name": "shyam",
+    "contact": "03260144411",
+    "address": "Dasdsaadsads",
+    "dob": { "$date": "2004-05-09T00:00:00.000Z" },
+    "aadhar_no": "611019758421",
+    "user": { "$oid": "6467df72c2b3142559d29324" },
+    "hostel": { "$oid": "645aae56db7005c0dc64fd92" },
+    "date": { "$date": "2024-05-19T20:43:30.844Z" },
+    "__v": 0
+  }
+]

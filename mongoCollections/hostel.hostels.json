@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "name": "BLOCK A",
+  "location": "https://goo.gl/maps/Az89wA3NsPaXfMfP9",
+  "rooms": 200,
+  "capacity": 600,
+  "vacant": 0
+}]
